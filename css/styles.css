@@ -276,3 +276,23 @@ li a{
 .BAciudad {
   margin-left: 15px;
 }
+
+#area-de-tramites {
+  color: rgb(56, 72, 92);
+  background-color:white;
+  
+}
+
+.area-gobierno-box {
+  position: relative; /*cambia este valor a static para ver la diferencia*/
+  width: 80%;
+  height: 100%;
+  background-color: white;
+  color: black;
+  
+  text-align: left;
+  top: 0px;
+  right: -300px;
+  
+  
+}
