@@ -199,7 +199,6 @@ img {
 .card{
   flex-grow: 1;
   padding: 0px !important;
-  
 }
 
 .card-footer {
@@ -286,7 +285,8 @@ li a{
 }
 
 .area-gobierno-box {
-
+  position: relative; /*cambia este valor a static para ver la diferencia*/
+  width: 80%;
   background-color: white;
   color: black;
   
@@ -294,9 +294,7 @@ li a{
   top: 0px;
   margin: -0px auto;
   right: -100px;
-  
-  
+    
 }
-
 
 
