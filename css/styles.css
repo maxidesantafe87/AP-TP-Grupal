@@ -196,9 +196,8 @@ img {
   text-align: start;
 }
 
-.card {
-  padding: 0 !important;
-  margin: 0 0.5rem;
+.card{
+  flex-grow: 1;
 }
 
 .card-footer {
