@@ -292,10 +292,13 @@ li a{
   text-align: left;
   top: 0px;
   margin: -0px auto;
-  right: -300px;
+  right: -100px;
   
   
 }
 
 
 
+::-webkit-scrollbar {
+    display: none;
+}
